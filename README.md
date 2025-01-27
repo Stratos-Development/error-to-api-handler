@@ -25,7 +25,7 @@ A simple JavaScript utility to capture errors and send them to a specified URL w
 
 ## Installation
 
-You can include the `ErrorHandler` class in your project by copying the file directly or installing via a package manager (after publishing to NPM, for example).
+You can include the `ErrorHandler` class in your project by copying the file directly or installing via a package manager.
 
 ### Direct Usage
 
