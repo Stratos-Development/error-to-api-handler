@@ -1,0 +1,19 @@
+{
+  "name": "error-to-api-handler",
+  "version": "1.0.0",
+  "description": "This module provides a robust error-handling middleware that automatically captures and forwards error details to a designated API endpoint for centralized monitoring and analysis. Simplify error reporting and enhance system observability with this lightweight solution.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaraunknown/error-to-api-handler.git"
+  },
+  "author": "Azara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azaraunknown/error-to-api-handler/issues"
+  },
+  "homepage": "https://github.com/azaraunknown/error-to-api-handler#readme"
+}
